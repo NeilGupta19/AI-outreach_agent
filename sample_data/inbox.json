@@ -1,0 +1,60 @@
+[
+  {
+    "id": "m-001",
+    "thread_id": "t-001",
+    "sender_name": "Maya Shah",
+    "sender_email": "maya@northstar.io",
+    "subject": "A quick Cicero introduction",
+    "body": "Thanks — this is interesting. Please send more information about how you work with companies like ours.",
+    "received_at": "2026-08-30T09:00:00Z",
+    "crm_role": "founder"
+  },
+  {
+    "id": "m-002",
+    "thread_id": "t-002",
+    "sender_name": "Leo Grant",
+    "sender_email": "leo@grantadvisory.com",
+    "subject": "Potential mandate",
+    "body": "I represent a client that may fit. Can we schedule a call on 2026-09-02 14:00-14:30 ET?",
+    "received_at": "2026-08-30T09:03:00Z",
+    "crm_role": "broker"
+  },
+  {
+    "id": "m-003",
+    "thread_id": "t-003",
+    "sender_name": "Noah Kim",
+    "sender_email": "noah@acme.example",
+    "subject": "Cicero",
+    "body": "Not now. We are in the middle of our financing process; perhaps check back next quarter.",
+    "received_at": "2026-08-30T09:05:00Z",
+    "crm_role": "founder"
+  },
+  {
+    "id": "m-004",
+    "thread_id": "t-004",
+    "sender_name": "Avery Parker",
+    "sender_email": "avery@example.com",
+    "subject": "Re: outreach",
+    "body": "What valuation range are you targeting?",
+    "received_at": "2026-08-30T09:08:00Z"
+  },
+  {
+    "id": "m-005",
+    "thread_id": "t-005",
+    "sender_name": "Jules Moreno",
+    "sender_email": "jules@example.com",
+    "subject": "Re: outreach",
+    "body": "Sounds good, thanks.",
+    "received_at": "2026-08-30T09:10:00Z"
+  },
+  {
+    "id": "m-006",
+    "thread_id": "t-006",
+    "sender_name": "Priya Rao",
+    "sender_email": "priya@delta.example",
+    "subject": "Re: outreach",
+    "body": "No thanks, please remove me from your list.",
+    "received_at": "2026-08-30T09:12:00Z",
+    "crm_role": "founder"
+  }
+]

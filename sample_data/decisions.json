@@ -1,0 +1,152 @@
+[
+  {
+    "email_id": "m-001",
+    "classification": {
+      "role": "founder",
+      "intent": "info_request",
+      "confidence": 0.88,
+      "rationale": [
+        "CRM marks sender as founder",
+        "positive interest / information request"
+      ],
+      "asks_for_call": false,
+      "explicit_time": null,
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "send_reply",
+      "subject": "Re: A quick Cicero introduction",
+      "body": "Hi Maya,\n\nThanks for the interest. We\u2019d be glad to share more about a focused conversation about the opportunity and whether a partnership could be useful for your company. If helpful, you can pick a time here: https://cal.example/cicero-intro\n\nBest,\nThe Cicero team",
+      "reason": "Clear, bounded response; no unsupported claims.",
+      "event": null,
+      "reply_source": "rules"
+    }
+  },
+  {
+    "email_id": "m-002",
+    "classification": {
+      "role": "broker",
+      "intent": "scheduling",
+      "confidence": 0.92,
+      "rationale": [
+        "CRM marks sender as broker",
+        "call/scheduling language with a machine-readable time"
+      ],
+      "asks_for_call": true,
+      "explicit_time": "2026-09-02 14:00-14:30 ET",
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "create_invite_and_reply",
+      "subject": "Re: Potential mandate",
+      "body": "Hi Leo,\n\nGreat \u2014 I\u2019ve sent a 30-minute calendar invite for 2026-09-02 14:00-14:30 ET. Looking forward to speaking.\n\nBest,\nThe Cicero team",
+      "reason": "Explicit call request and explicit time window.",
+      "event": {
+        "title": "Cicero introduction",
+        "attendee": "leo@grantadvisory.com",
+        "when": "2026-09-02 14:00-14:30 ET",
+        "duration_minutes": 30,
+        "id": "evt-1"
+      },
+      "reply_source": null
+    }
+  },
+  {
+    "email_id": "m-003",
+    "classification": {
+      "role": "founder",
+      "intent": "not_now",
+      "confidence": 0.9,
+      "rationale": [
+        "CRM marks sender as founder",
+        "deferral language"
+      ],
+      "asks_for_call": false,
+      "explicit_time": null,
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "send_reply",
+      "subject": "Re: Cicero",
+      "body": "Hi Noah,\n\nThanks for the candid note. We\u2019ll hold off for now and can reconnect when timing is better.\n\nBest,\nThe Cicero team",
+      "reason": "Clear, bounded response; no unsupported claims.",
+      "event": null,
+      "reply_source": "rules"
+    }
+  },
+  {
+    "email_id": "m-004",
+    "classification": {
+      "role": "unknown",
+      "intent": "question",
+      "confidence": 0.5,
+      "rationale": [
+        "no reliable role signal",
+        "question or request for a factual answer"
+      ],
+      "asks_for_call": false,
+      "explicit_time": null,
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "review",
+      "subject": "",
+      "body": "",
+      "reason": "Low confidence or factual question requires human review.",
+      "event": null,
+      "reply_source": null
+    }
+  },
+  {
+    "email_id": "m-005",
+    "classification": {
+      "role": "unknown",
+      "intent": "ambiguous",
+      "confidence": 0.5,
+      "rationale": [
+        "no reliable role signal",
+        "positive but lacks a clear request"
+      ],
+      "asks_for_call": false,
+      "explicit_time": null,
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "review",
+      "subject": "",
+      "body": "",
+      "reason": "Low confidence or factual question requires human review.",
+      "event": null,
+      "reply_source": null
+    }
+  },
+  {
+    "email_id": "m-006",
+    "classification": {
+      "role": "founder",
+      "intent": "not_interested",
+      "confidence": 0.98,
+      "rationale": [
+        "CRM marks sender as founder",
+        "explicit opt-out / rejection"
+      ],
+      "asks_for_call": false,
+      "explicit_time": null,
+      "source": "rules",
+      "fallback_reason": "OpenAI unavailable: AuthenticationError"
+    },
+    "action": {
+      "kind": "suppress_contact",
+      "subject": "",
+      "body": "",
+      "reason": "Explicit rejection or opt-out; add sender to suppression list.",
+      "event": null,
+      "reply_source": null
+    }
+  }
+]

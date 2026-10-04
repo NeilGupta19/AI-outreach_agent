@@ -1,0 +1,18 @@
+pip install -r requirements.txt
+
+export OPENAI_API_KEY=YOUR_KEY
+
+# Place Google OAuth Desktop App JSON at:
+credentials.json
+
+python run_gmail.py --send --openai
+
+streamlit run streamlit_app.py
+
+Create:
+
+.env.example
+
+with:
+
+OPENAI_API_KEY=your_openai_api_key_here

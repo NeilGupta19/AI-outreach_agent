@@ -1,0 +1,6 @@
+# Only required when running: python3 run_demo.py --openai
+openai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+streamlit

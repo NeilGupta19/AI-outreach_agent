@@ -1,0 +1,8 @@
+credentials.json
+token.json
+calendar_token.json
+cicero.db
+__pycache__/
+*.py[cod]
+.env
+.zshrc

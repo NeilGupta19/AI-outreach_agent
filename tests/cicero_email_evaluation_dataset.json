@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "crm_role": "broker",
+    "body": "Hi Neil, I'd be happy to chat. I'm available 2026-09-10 15:00-15:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 2,
+    "crm_role": "broker",
+    "body": "Let's schedule a call. 2026-09-12 11:00-11:30 IST works for me.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 3,
+    "crm_role": "broker",
+    "body": "Please send a calendar invite. I am free 2026-09-15 14:00-14:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 4,
+    "crm_role": "broker",
+    "body": "Can we meet? I'm available 2026-09-18 16:00-16:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 5,
+    "crm_role": "founder",
+    "body": "We are available for a call. 2026-09-20 10:00-10:30 IST works.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 6,
+    "crm_role": "broker",
+    "body": "Hi Neil, I'd be happy to chat. I'm available 2026-09-10 15:00-15:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 7,
+    "crm_role": "broker",
+    "body": "Let's schedule a call. 2026-09-12 11:00-11:30 IST works for me.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 8,
+    "crm_role": "broker",
+    "body": "Please send a calendar invite. I am free 2026-09-15 14:00-14:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 9,
+    "crm_role": "broker",
+    "body": "Can we meet? I'm available 2026-09-18 16:00-16:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 10,
+    "crm_role": "broker",
+    "body": "We are available for a call. 2026-09-20 10:00-10:30 IST works.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 11,
+    "crm_role": "broker",
+    "body": "Hi Neil, I'd be happy to chat. I'm available 2026-09-10 15:00-15:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 12,
+    "crm_role": "founder",
+    "body": "Let's schedule a call. 2026-09-12 11:00-11:30 IST works for me.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 13,
+    "crm_role": "broker",
+    "body": "Please send a calendar invite. I am free 2026-09-15 14:00-14:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 14,
+    "crm_role": "founder",
+    "body": "Can we meet? I'm available 2026-09-18 16:00-16:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 15,
+    "crm_role": "broker",
+    "body": "We are available for a call. 2026-09-20 10:00-10:30 IST works.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 16,
+    "crm_role": "founder",
+    "body": "Hi Neil, I'd be happy to chat. I'm available 2026-09-10 15:00-15:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 17,
+    "crm_role": "broker",
+    "body": "Let's schedule a call. 2026-09-12 11:00-11:30 IST works for me.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 18,
+    "crm_role": "broker",
+    "body": "Please send a calendar invite. I am free 2026-09-15 14:00-14:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 19,
+    "crm_role": "founder",
+    "body": "Can we meet? I'm available 2026-09-18 16:00-16:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 20,
+    "crm_role": "founder",
+    "body": "We are available for a call. 2026-09-20 10:00-10:30 IST works.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 21,
+    "crm_role": "broker",
+    "body": "Hi Neil, I'd be happy to chat. I'm available 2026-09-10 15:00-15:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 22,
+    "crm_role": "broker",
+    "body": "Let's schedule a call. 2026-09-12 11:00-11:30 IST works for me.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 23,
+    "crm_role": "founder",
+    "body": "Please send a calendar invite. I am free 2026-09-15 14:00-14:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 24,
+    "crm_role": "broker",
+    "body": "Can we meet? I'm available 2026-09-18 16:00-16:30 IST.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 25,
+    "crm_role": "broker",
+    "body": "We are available for a call. 2026-09-20 10:00-10:30 IST works.",
+    "expected_intent": "scheduling",
+    "expected_schedule": true
+  },
+  {
+    "id": 26,
+    "crm_role": "founder",
+    "body": "Interested. Please send more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 27,
+    "crm_role": "founder",
+    "body": "Would like to learn more about your approach.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 28,
+    "crm_role": "founder",
+    "body": "Can you send details about the opportunity?",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 29,
+    "crm_role": "founder",
+    "body": "This sounds interesting. Please share more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 30,
+    "crm_role": "founder",
+    "body": "I'd like to learn more before deciding.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 31,
+    "crm_role": "founder",
+    "body": "Interested. Please send more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 32,
+    "crm_role": "founder",
+    "body": "Would like to learn more about your approach.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 33,
+    "crm_role": "founder",
+    "body": "Can you send details about the opportunity?",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 34,
+    "crm_role": "founder",
+    "body": "This sounds interesting. Please share more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 35,
+    "crm_role": "broker",
+    "body": "I'd like to learn more before deciding.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 36,
+    "crm_role": "founder",
+    "body": "Interested. Please send more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 37,
+    "crm_role": "founder",
+    "body": "Would like to learn more about your approach.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 38,
+    "crm_role": "broker",
+    "body": "Can you send details about the opportunity?",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 39,
+    "crm_role": "broker",
+    "body": "This sounds interesting. Please share more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 40,
+    "crm_role": "founder",
+    "body": "I'd like to learn more before deciding.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 41,
+    "crm_role": "broker",
+    "body": "Interested. Please send more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 42,
+    "crm_role": "founder",
+    "body": "Would like to learn more about your approach.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 43,
+    "crm_role": "broker",
+    "body": "Can you send details about the opportunity?",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 44,
+    "crm_role": "founder",
+    "body": "This sounds interesting. Please share more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 45,
+    "crm_role": "founder",
+    "body": "I'd like to learn more before deciding.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 46,
+    "crm_role": "broker",
+    "body": "Interested. Please send more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 47,
+    "crm_role": "founder",
+    "body": "Would like to learn more about your approach.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 48,
+    "crm_role": "broker",
+    "body": "Can you send details about the opportunity?",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 49,
+    "crm_role": "broker",
+    "body": "This sounds interesting. Please share more information.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 50,
+    "crm_role": "founder",
+    "body": "I'd like to learn more before deciding.",
+    "expected_intent": "info_request",
+    "expected_schedule": false
+  },
+  {
+    "id": 51,
+    "crm_role": "broker",
+    "body": "What types of companies are you targeting?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 52,
+    "crm_role": "founder",
+    "body": "Can you explain your acquisition criteria?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 53,
+    "crm_role": "broker",
+    "body": "What industries do you focus on?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 54,
+    "crm_role": "broker",
+    "body": "How does your process work?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 55,
+    "crm_role": "founder",
+    "body": "What size companies are you looking for?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 56,
+    "crm_role": "founder",
+    "body": "What types of companies are you targeting?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 57,
+    "crm_role": "founder",
+    "body": "Can you explain your acquisition criteria?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 58,
+    "crm_role": "broker",
+    "body": "What industries do you focus on?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 59,
+    "crm_role": "broker",
+    "body": "How does your process work?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 60,
+    "crm_role": "founder",
+    "body": "What size companies are you looking for?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 61,
+    "crm_role": "broker",
+    "body": "What types of companies are you targeting?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 62,
+    "crm_role": "founder",
+    "body": "Can you explain your acquisition criteria?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 63,
+    "crm_role": "broker",
+    "body": "What industries do you focus on?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 64,
+    "crm_role": "founder",
+    "body": "How does your process work?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 65,
+    "crm_role": "founder",
+    "body": "What size companies are you looking for?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 66,
+    "crm_role": "founder",
+    "body": "What types of companies are you targeting?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 67,
+    "crm_role": "broker",
+    "body": "Can you explain your acquisition criteria?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 68,
+    "crm_role": "broker",
+    "body": "What industries do you focus on?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 69,
+    "crm_role": "founder",
+    "body": "How does your process work?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 70,
+    "crm_role": "broker",
+    "body": "What size companies are you looking for?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 71,
+    "crm_role": "broker",
+    "body": "What types of companies are you targeting?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 72,
+    "crm_role": "founder",
+    "body": "Can you explain your acquisition criteria?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 73,
+    "crm_role": "founder",
+    "body": "What industries do you focus on?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 74,
+    "crm_role": "broker",
+    "body": "How does your process work?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 75,
+    "crm_role": "broker",
+    "body": "What size companies are you looking for?",
+    "expected_intent": "question",
+    "expected_schedule": false
+  },
+  {
+    "id": 76,
+    "crm_role": "founder",
+    "body": "Thanks, but we're not interested.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 77,
+    "crm_role": "founder",
+    "body": "No thanks.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 78,
+    "crm_role": "broker",
+    "body": "Please remove me from your list.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 79,
+    "crm_role": "broker",
+    "body": "We are not interested at this time.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 80,
+    "crm_role": "founder",
+    "body": "Don't contact me again.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 81,
+    "crm_role": "broker",
+    "body": "Thanks, but we're not interested.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 82,
+    "crm_role": "broker",
+    "body": "No thanks.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 83,
+    "crm_role": "broker",
+    "body": "Please remove me from your list.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 84,
+    "crm_role": "broker",
+    "body": "We are not interested at this time.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 85,
+    "crm_role": "broker",
+    "body": "Don't contact me again.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 86,
+    "crm_role": "broker",
+    "body": "Thanks, but we're not interested.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 87,
+    "crm_role": "broker",
+    "body": "No thanks.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 88,
+    "crm_role": "broker",
+    "body": "Please remove me from your list.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 89,
+    "crm_role": "founder",
+    "body": "We are not interested at this time.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 90,
+    "crm_role": "founder",
+    "body": "Don't contact me again.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 91,
+    "crm_role": "founder",
+    "body": "Thanks, but we're not interested.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 92,
+    "crm_role": "broker",
+    "body": "No thanks.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 93,
+    "crm_role": "broker",
+    "body": "Please remove me from your list.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 94,
+    "crm_role": "broker",
+    "body": "We are not interested at this time.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 95,
+    "crm_role": "broker",
+    "body": "Don't contact me again.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 96,
+    "crm_role": "broker",
+    "body": "Thanks, but we're not interested.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 97,
+    "crm_role": "broker",
+    "body": "No thanks.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 98,
+    "crm_role": "founder",
+    "body": "Please remove me from your list.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 99,
+    "crm_role": "broker",
+    "body": "We are not interested at this time.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 100,
+    "crm_role": "broker",
+    "body": "Don't contact me again.",
+    "expected_intent": "not_interested",
+    "expected_schedule": false
+  },
+  {
+    "id": 101,
+    "crm_role": "broker",
+    "body": "Too early for us. Check back next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 102,
+    "crm_role": "founder",
+    "body": "Not now, maybe next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 103,
+    "crm_role": "broker",
+    "body": "Please circle back in a few months.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 104,
+    "crm_role": "broker",
+    "body": "Reach out next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 105,
+    "crm_role": "founder",
+    "body": "Let's revisit this next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 106,
+    "crm_role": "broker",
+    "body": "Too early for us. Check back next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 107,
+    "crm_role": "founder",
+    "body": "Not now, maybe next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 108,
+    "crm_role": "founder",
+    "body": "Please circle back in a few months.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 109,
+    "crm_role": "broker",
+    "body": "Reach out next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 110,
+    "crm_role": "broker",
+    "body": "Let's revisit this next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 111,
+    "crm_role": "founder",
+    "body": "Too early for us. Check back next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 112,
+    "crm_role": "founder",
+    "body": "Not now, maybe next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 113,
+    "crm_role": "broker",
+    "body": "Please circle back in a few months.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 114,
+    "crm_role": "founder",
+    "body": "Reach out next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 115,
+    "crm_role": "broker",
+    "body": "Let's revisit this next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 116,
+    "crm_role": "broker",
+    "body": "Too early for us. Check back next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 117,
+    "crm_role": "founder",
+    "body": "Not now, maybe next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 118,
+    "crm_role": "founder",
+    "body": "Please circle back in a few months.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 119,
+    "crm_role": "founder",
+    "body": "Reach out next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 120,
+    "crm_role": "founder",
+    "body": "Let's revisit this next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 121,
+    "crm_role": "broker",
+    "body": "Too early for us. Check back next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 122,
+    "crm_role": "founder",
+    "body": "Not now, maybe next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 123,
+    "crm_role": "founder",
+    "body": "Please circle back in a few months.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 124,
+    "crm_role": "broker",
+    "body": "Reach out next quarter.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 125,
+    "crm_role": "broker",
+    "body": "Let's revisit this next year.",
+    "expected_intent": "not_now",
+    "expected_schedule": false
+  },
+  {
+    "id": 126,
+    "crm_role": "broker",
+    "body": "Sounds good.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 127,
+    "crm_role": "broker",
+    "body": "Thanks.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 128,
+    "crm_role": "broker",
+    "body": "Appreciate it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 129,
+    "crm_role": "founder",
+    "body": "Understood.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 130,
+    "crm_role": "founder",
+    "body": "Got it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 131,
+    "crm_role": "founder",
+    "body": "Sounds good.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 132,
+    "crm_role": "broker",
+    "body": "Thanks.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 133,
+    "crm_role": "founder",
+    "body": "Appreciate it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 134,
+    "crm_role": "founder",
+    "body": "Understood.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 135,
+    "crm_role": "broker",
+    "body": "Got it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 136,
+    "crm_role": "founder",
+    "body": "Sounds good.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 137,
+    "crm_role": "broker",
+    "body": "Thanks.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 138,
+    "crm_role": "broker",
+    "body": "Appreciate it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 139,
+    "crm_role": "broker",
+    "body": "Understood.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 140,
+    "crm_role": "broker",
+    "body": "Got it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 141,
+    "crm_role": "founder",
+    "body": "Sounds good.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 142,
+    "crm_role": "founder",
+    "body": "Thanks.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 143,
+    "crm_role": "founder",
+    "body": "Appreciate it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 144,
+    "crm_role": "broker",
+    "body": "Understood.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 145,
+    "crm_role": "founder",
+    "body": "Got it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 146,
+    "crm_role": "founder",
+    "body": "Sounds good.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 147,
+    "crm_role": "founder",
+    "body": "Thanks.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 148,
+    "crm_role": "founder",
+    "body": "Appreciate it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 149,
+    "crm_role": "founder",
+    "body": "Understood.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  },
+  {
+    "id": 150,
+    "crm_role": "founder",
+    "body": "Got it.",
+    "expected_intent": "ambiguous",
+    "expected_schedule": false
+  }
+]
